@@ -11,7 +11,7 @@ TASK:
     
     POST METHOD
     Write API to create Mentor  -  
-    https://eduhub-karthee.herokuapp.com/mentor
+    https://studentmentor-yhg6.onrender.com/mentor
     
     
 </li>
